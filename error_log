@@ -1,0 +1,8 @@
+[15-Jan-2023 14:12:36 UTC] PHP Warning:  readfile(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[15-Jan-2023 14:12:36 UTC] PHP Warning:  readfile(https://getcomposer.org/installer): Failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[15-Jan-2023 14:14:37 UTC] PHP Warning:  readfile(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[15-Jan-2023 14:14:37 UTC] PHP Warning:  readfile(https://getcomposer.org/installer): Failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[15-Jan-2023 14:17:01 UTC] PHP Warning:  readfile(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[15-Jan-2023 14:17:01 UTC] PHP Warning:  readfile(https://getcomposer.org/installer): Failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[15-Jan-2023 14:42:14 UTC] PHP Warning:  readfile(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[15-Jan-2023 14:42:14 UTC] PHP Warning:  readfile(https://getcomposer.org/installer): Failed to open stream: no suitable wrapper could be found in Command line code on line 1
